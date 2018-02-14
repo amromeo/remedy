@@ -73,7 +73,7 @@ marchunkr_section <- function() {
   adc$selection[[1]]$range$end[[1]] <- newend
   adc$selection[[1]]$range$end[[2]] <- 1
   
-  start_text <- "\n```{r"
+  start_text <- "\n```{marginfigure"
   
   if (!remedy_opts$get("basic")) {
     if (remedy_opts$get("counter")) {
