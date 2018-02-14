@@ -18,6 +18,11 @@ Description: Embolden selected text
 Binding: boldr
 Interactive: false
 
+Name: MarChunk
+Description: Chunk script or file for marginplot
+Binding: marchunkr
+Interactive: false
+
 Name: Chunk
 Description: Chunk script or file
 Binding: chunkr
